@@ -13,6 +13,9 @@ public class Client {
     private static String DEFAULT_HOST = "127.0.0.1";
 
 
+
+
+
     public static void send() throws IOException {
         Socket socket = null;
         BufferedReader in = null;
