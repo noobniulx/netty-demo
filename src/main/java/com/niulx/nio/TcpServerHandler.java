@@ -1,4 +1,4 @@
-package com.niulx.bio.com.niulx.nio;
+package com.niulx.nio;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

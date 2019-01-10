@@ -1,4 +1,4 @@
-package com.niulx.bio.com.niulx.nio;
+package com.niulx.nio;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;
